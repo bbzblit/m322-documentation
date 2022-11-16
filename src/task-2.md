@@ -19,3 +19,7 @@ Nun kann es auch einmal vorkommen, dass der User sein password vergessen hat. Fa
 Wenn der User nun erfolgreich seine Email addresse eingegeben hat bekommt er nach kürzester Zeit einen Resetlink auf seine Email addresse gesendet. Mithilfe von diesem Link ist der User nun in der Lage sein Password zu ändern. Diese View ist relativ simpel gehalten und beinhaltet lediglich 2 Eingabefenster und ein Button um die Eingaben zu bestätigen. Diese View braucht keinen Link, der auf eine andere View verweisst, da der User normalerweise auf diese View direckt aus einem Link drauf zugreifft. Wenn der User erfolgreich das neue Password eingegeben hat wird er direckt wieder auf die Startseite weitergeleited.
 
 ![image](https://user-images.githubusercontent.com/99135388/202239685-aed88313-0bea-4a34-a2dc-7a30f0ae4284.png)
+
+- **Folder View**
+Nachdem der User sich erfolgreich angemeldet sieht er eine übersicht über alle seine Notenblätter. Ein Notenblatt ist simpel eine ansamlung von verschiedenen Fächern. Auf der Seite werden nicht nur die eigenen Notenblätter angezeigt, sondern auch die von anderen Personen auf die man Zugriff hat.  Die einzelnen Folder könnten auch über bestimmte Acctions bearbeitet oder gelöscht werden. Auch ein neuer Folder kann über eine acction hinzugefügt werden. Da man sich auch aus der Application ausloggen möchte wird ein Logout Button auf der rechten Seite bereitgestellt. 
+![image](https://user-images.githubusercontent.com/99135388/202249661-49cacfda-356c-4d90-91fa-3e13142047d4.png)
