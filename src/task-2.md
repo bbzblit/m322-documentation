@@ -20,11 +20,16 @@ Wenn der User nun erfolgreich seine Email addresse eingegeben hat bekommt er nac
 
 ![image](https://user-images.githubusercontent.com/99135388/202239685-aed88313-0bea-4a34-a2dc-7a30f0ae4284.png)
 
-- **Folder View**
+- **Folder View** <br/>
 Nachdem der User sich erfolgreich angemeldet sieht er eine übersicht über alle seine Notenblätter. Ein Notenblatt ist simpel eine ansamlung von verschiedenen Fächern. Auf der Seite werden nicht nur die eigenen Notenblätter angezeigt, sondern auch die von anderen Personen auf die man Zugriff hat.  Die einzelnen Folder könnten auch über bestimmte Acctions bearbeitet oder gelöscht werden. Auch ein neuer Folder kann über eine acction hinzugefügt werden. Da man sich auch aus der Application ausloggen möchte wird ein Logout Button auf der rechten Seite bereitgestellt. Die view sollte möglichst Minimalistisch gehalten werden, um eine einfachere Bedinung zu ermöglichen.
 ![image](https://user-images.githubusercontent.com/99135388/202249661-49cacfda-356c-4d90-91fa-3e13142047d4.png)
 
-- **Noten View**
+- **Noten View** <br/>
 Durch einen simplen klick auf eines der Notenblätter kommt man in eine Übersicht mit allen Fächern. Das ganze ist in einer Tabelle Strukturiert. Die einzelnen Noten sind mit sogennanten `chips` dargestetllt. Durch die farbliche Hinzerlegung erhällt man schnell eine Übersicht von allen Noten. Wenn man nun eine zusätzliche Note hinzufügen möchte kann man das einfach dadurch machen, dass man mit dem Mauszeiger in das Feld mit allen Noten hinanklickt, und dann die Note eingib. Dadurch sparrt man sich den lästigen Umweg über ein eigenes Dialogfenser. <br/>
 In gewissen Fällen kann es gut auch einmal vorkommen, dass die verschiedenen unterschiedlich gewichtet werden. In solchen kann man mit einem einfachen klick auf den `chip` die gewichtung anpassen. 
 ![image](https://user-images.githubusercontent.com/99135388/202264377-876f0b74-12ef-432e-a0e1-84600bd9c1c2.png)
+
+- **Freigaben** <br/>
+In gewissen Fällen möchte man das Notenblatt anderen Personen freigeben. Das kann man ganz einfach über die Freigabe View machen, welche sich ganz leicht über das `share` Symbol öffnen lässt. In dem Freigabe Dialog sieht man alle Personen, welche Bereits zugang zu dem Notenblatt haben. Um das Notenblatt einer weiteren Person freizugeben kann man die `Email` Addresse von der besagten Person oben eingeben. Um sie anschlissend wieder zu entfernen muss man lediglich auf den delete Button klicken. Natürlich ist diese View nur für den eigentümmer des Notenblattes sichtbar. 
+
+![image](https://user-images.githubusercontent.com/99135388/202268661-82f86f21-6a67-4f86-af3e-04c12afacec0.png)
