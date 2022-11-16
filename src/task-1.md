@@ -17,4 +17,5 @@ Ein witerere Punkt der erwünscht ist, ist die Möglichkeit die Notenblätter au
 
 ## Verwendung der View
 ### Anmeldung & Login
-Die Anmeldung sollte allen Personen leicht fallen. Alle 3 Personen sind im Beitz von einer Email Addresse und wissen auch wie man sie bedient. 
+Die Anmeldung sollte allen Personen leicht fallen. Alle 3 Personen sind im Beitz von einer Email Addresse und wissen auch wie man sie bedient. Man sollte allerdings validieren, ob das Password eines von den eher häufiger verwendeten Passwörter ist, da man bei einigen Personen sich nicht sicher ist ob sie zu einem Password wie `Password.123` tendieren. 
+
