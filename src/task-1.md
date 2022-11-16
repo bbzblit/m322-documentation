@@ -15,6 +15,34 @@ Wenn man die verschiedenen Personen anschaut, merkt man schnell, dass sie eine a
 Auch sieht man, dass sich die meisten Personen eine Application wünschen, die leicht zu verstehen und zu bedinen ist. Dadurch sollte die Application möglichst klein gehalten werden und auf die Grundfunktionen beschränkt werden. <br/><br/>
 Ein witerere Punkt der erwünscht ist, ist die Möglichkeit die Notenblätter auch mit anderen Personen zu teilen. So möchte z.B. eine Person das Tool unteranderem auch dafür benutzen um die Noten einfach mit seien Schülern zu teilen.
 
+## Erstellen von einer Umfrage
+Wie ich bereits am Anfang kurz angedeutet habe erstellt man normalerweise Personas aus der Folge von einer Umfrage. Zwar habe ich hierfür keine Umfrage erstellt. Allerdings habe ich mir trozdem gedanken dazu gemacht, wie man so etwas machen könnte.
+
+
+### BETA-Programm
+Bei sehr vielen Programmen gibt es ein Beta Programm (z.B. [DALE - E](https://openai.com/dall-e-2/)). Soche Programme lassen den zukünfitgen Benutzer die neuen Features von dem Programm testen. Die Plätze in einem Beta Progamm sind meisten kostenlos allerdings begrenzt. Die Meinung von den Beta Testern kann dann den Developer ein sofortiges Feadback liefern, was noch verbessert / abgeändert werden soll bis zum releas. Ausserdem lassen sie den User das Produkt auch kostenlos testen. Dadurch kann man vielleicht eine zukünftiges Kaufverhalten beinträchtigen. Leider kann bei einem Beta Programm nicht soleicht sichergestellt werden, dass alle Interessensgruppen repräsentiert werden. 
+
+**Contra** <br/>
+- Man kann nicht sicherstellen das alle Interessensgruppen repräsentiert werden.
+- Man braucht bereits ein Proukt welches man vorzeigen kann
+
+**Pro** <br/>
+- Kann das Kaufempfinden beeinträchtigen
+- Verursachen nicht all zu grosse Kosten
+- Man bekommt Fedback von den zukünftigen Usern 
+
+### Befragen von Representaten
+Die erste Möglichkeit besteht darin, eine Umfrage zu erstellen / in Auftrag zu geben, bei der man von jeder Gruppe einen Representaten aussucht und diesen Befragt. In Unserem Biespiel würde man so z.B.  6 Schüler und 6 Lerpersonen befragen. Die Antworten von den Umfragewerten würde man dann auf die Representatengruppe hochrechnen. Die Umfragen währen lang gestaltet und hätten mehrere Fragen drin, von denen am Ende nur ein paar ausgewertet werden. Solhe Befragungen sind Aufwändig zu erstellen und kosten häufig auch eine Menge. Der Vorteil von ihnen besteht klar darin, dass sie alle Personengruppen miteinbezihen.
+
+**Contra** <br>
+- Teuer 
+- Aufwäding
+
+**Pro** <br/>
+- Representieren alle Personengruppen
+- Die Idee von dem Produkt muss noch nicht ausgearbeitet werden. 
+
+
 ## Verwendung der View
 ### Anmeldung & Login
 Die Anmeldung sollte allen Personen leicht fallen. Alle 3 Personen sind im Beitz von einer Email Addresse und wissen auch wie man sie bedient. Man sollte allerdings validieren, ob das Password eines von den eher häufiger verwendeten Passwörter ist, da man bei einigen Personen sich nicht sicher ist ob sie zu einem Password wie `Password.123` tendieren. 
