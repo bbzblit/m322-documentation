@@ -11,3 +11,8 @@ Die erste View, welche der User zu Gesicht bekommen, wenn er die Website öffnet
 Falls der User sich nun dazu entscheidet, bei der Sing Up view einen neuen Useraccount anzulegen, kann er das, in dem er auf den Link `Or create a new account` klickt. Danach wird er dann zur Sing up View weitergeleitet. 
 Die Sing up View ist ähndlich strukturiert wie der Login Screen. Auch ihn ihr sollte der Hauptfokus auf der eingabe der Userdaten liegen. Sie wurde ausserdem noch um 2 weitere Felder erweitert. Nämlich umd die Eingabe von der `Email Addresse` und um die erneute Eingabe vom `passwort`. Falls der User sich nun allerdings denoch dazu entscheidet, dass er sich doch lieber einloggen möchte, oder sein passwort zurücksetzen möchte kann er jederzeit über den Link `Or Login` zur Login view zurückkehren. Auch in diesem Beispiel ist die view gezielt versteckt, dammit der User sie nur dann findet, wenn er gezielt danach sucht.  
 ![image](https://user-images.githubusercontent.com/99135388/202233537-24debedd-cab0-40a0-9c42-ccc82a865739.png)
+
+- **Forgot Password** <br/>
+Nun kann es auch einmal vorkommen, dass der User sein password vergessen hat. Falls das der Fall ist kann er auf der Login View auf den Link `Forgot password?` klicken. Anschlissend erscheint dann ein Popup in dem er seine Email Addresse eingaeben kann. Das ganze ist gezielt als Popup designt, um dem User zu suggerieren, dass er jedereit zur Login view zurückkehren kann. <br/>
+![image](https://user-images.githubusercontent.com/99135388/202235316-e76f817a-1f44-4fb2-84d3-e430da2facc9.png)
+ 
