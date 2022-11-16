@@ -19,3 +19,14 @@ Ein witerere Punkt der erwünscht ist, ist die Möglichkeit die Notenblätter au
 ### Anmeldung & Login
 Die Anmeldung sollte allen Personen leicht fallen. Alle 3 Personen sind im Beitz von einer Email Addresse und wissen auch wie man sie bedient. Man sollte allerdings validieren, ob das Password eines von den eher häufiger verwendeten Passwörter ist, da man bei einigen Personen sich nicht sicher ist ob sie zu einem Password wie `Password.123` tendieren. 
 
+### Folder
+Bei den Foldern haben alle 3 Personen keine grösseren Probleme. Die Leichte Übersicht über alle Notenfiles ermöglicht allen eine Klare verwendung des Tools. 
+
+### Noteneingabe
+Das erstellen und die Eingabe von den Noten fällt allen Personen extrem einfach. Allerdings wussten die meisten Personen von dem Feature mit der Abänderung der Gewichtung von einer der Noten noch nichts. Ihr wunsch währe es gewesen, wenn man am Anfang eine kleine Einführung in die Application erhalten hätte. 
+
+### Freigabe
+`Gilbert Pierce` kommt gut mit dem Feature zurecht und benutzt es auch regelmässig. Andere Personen hingegen wie z.B. `Rosmarin Rose` kennen sich noch nicht mit dem Feature aus und verstehen auch nicht wozu es gut sein sollte. Dass ist allerdings auch nicht all zu schlimm, da die Grundfunktonälitäten auch ohne das Teilen von Notenblätter erfüllt sind.
+
+## Austauschs mit einem anderen Klassenmitglied
+Wie bereits beschprochen konnte ich diese Aufgabe aus guten Gründen noch nicht Lösen. Ich werde sie allerdings möglichst schnell nach reichen.
