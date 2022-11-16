@@ -15,4 +15,7 @@ Die Sing up View ist ähndlich strukturiert wie der Login Screen. Auch ihn ihr s
 - **Forgot Password** <br/>
 Nun kann es auch einmal vorkommen, dass der User sein password vergessen hat. Falls das der Fall ist kann er auf der Login View auf den Link `Forgot password?` klicken. Anschlissend erscheint dann ein Popup in dem er seine Email Addresse eingaeben kann. Das ganze ist gezielt als Popup designt, um dem User zu suggerieren, dass er jedereit zur Login view zurückkehren kann. <br/>
 ![image](https://user-images.githubusercontent.com/99135388/202235316-e76f817a-1f44-4fb2-84d3-e430da2facc9.png)
- 
+<br/>
+Wenn der User nun erfolgreich seine Email addresse eingegeben hat bekommt er nach kürzester Zeit einen Resetlink auf seine Email addresse gesendet. Mithilfe von diesem Link ist der User nun in der Lage sein Password zu ändern. Diese View ist relativ simpel gehalten und beinhaltet lediglich 2 Eingabefenster und ein Button um die Eingaben zu bestätigen. Diese View braucht keinen Link, der auf eine andere View verweisst, da der User normalerweise auf diese View direckt aus einem Link drauf zugreifft. Wenn der User erfolgreich das neue Password eingegeben hat wird er direckt wieder auf die Startseite weitergeleited.
+
+![image](https://user-images.githubusercontent.com/99135388/202239685-aed88313-0bea-4a34-a2dc-7a30f0ae4284.png)
