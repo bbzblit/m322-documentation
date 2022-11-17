@@ -10,8 +10,7 @@ Um eine erfolgreiche Application zu erstellen, muss man zuerst bestimmen, für w
 ![image](https://user-images.githubusercontent.com/99135388/202280028-4a94876f-169f-4e17-b0fe-b7834582aa8a.png)
 
 ## 3. Person
-![image](https://user-images.githubusercontent.com/99135388/202280068-fdc9673c-ac68-427b-8087-9eade3f7e37e.png)
-
+![image](https://user-images.githubusercontent.com/99135388/202565127-ec7b2e96-eacd-4f55-8b78-68204dfcc943.png)
 ## Auswertung
 Wenn man die verschiedenen Personen anschaut, merkt man schnell, dass sie eine andere Ausrüstung haben. So verwenden z.B. alle 3 Personen verschiedene Betriebsysteme (Windows 7/ Windows 11/Lubuntu (Linux)). Nun könnte man sicherlich eine Application für die Notenverwaltung erstellen, die auf dem PC läuft. Das Problem ist nur, dass es viel Aufwand ist, eine Application zu erstellen, die auf mehreren Betriebsystemen läuft. Die Lösung dafür ist eine SAP (Singel Page Application). Diese läuft im Browser und funktioniert dadurch auf allen Betriebsystemen und sogar auch auf Mobilegeräten.  <br/> <br/>
 Auch sieht man, dass sich die meisten Personen eine Application wünschen, die leicht zu verstehen und zu bedienen ist. Dadurch sollte die Application möglichst klein gehalten und auf die Grundfunktionen beschränkt werden. <br/><br/>
