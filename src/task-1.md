@@ -1,3 +1,5 @@
+[Go back to home page](./../README.md)
+
 # 1. Aufgabe
 Um eine erfolgreiche Application zu erstellen, muss man zuerst bestimmen, für wen die Application bestimmt ist. Nur wenn die Bedürfnisse von genügend Personen erfüllt sind hat die Application eine Chance zu überleben. Normalerweise macht man das, indem man  verschiedenste Personen befragt. Da eine Umfrage für eine solch kleine Applicaton zu viel wäre, habe ich 3 verschiedene potenzielle Benutzergruppen erstellt, welche je von einer Person repräsentiert wird.
 
