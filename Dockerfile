@@ -1,14 +1,13 @@
-FROM jekyll/jekyll:3.8
+FROM jekyll/jekyll:pages
 
-ARG PWD
+COPY Gemfile* /srv/jekyll/
 
-COPY $PWD /srv/jekyll
-COPY ${PWD}_site /srv/jekyll/_site
+WORKDIR /srv/jekyll
 
+RUN apk update && \
+	apk add ruby-dev gcc make curl build-base libc-dev libffi-dev zlib-dev libxml2-dev libgcrypt-dev libxslt-dev python
 
+RUN bundle config build.nokogiri --use-system-libraries && \
+	bundle install
 
-RUN gem install bundler:2.2.24 && bundle install
-
-ENTRYPOINT [ "jekyll" ]
-
-CMD [ "build" ]
+EXPOSE 4000
