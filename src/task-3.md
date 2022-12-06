@@ -24,7 +24,7 @@ In vielen Views verwende ich Icons. In den meisten Fällen sollten den meisten U
 
 
 ### Gesetz der Ähnlichkeit
-Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlich aussehen auch automatisch als Zusammengehörtig warnimmt. Dadurch kann man dem User suggerieren, welche Aktion er als nächste ausführen soll.
+Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlich aussehen auch automatisch als Zusammengehörtig warnimmt. Dadurch kann man dem User suggerieren, welche Aktion er als nächstes ausführen soll. Ein gutes Beispiel, welches ich im Internet für das `Gesetz der Ähndlichkeit` gefunden habe ist das unten angezeigte Gif. Die Punkte verändern zuerst ihre Farbe und nachher auch noch ihre Form. Man merkt, wie sofort das Gehirn die Punkte in 2 Gruppe aufteilt.
 
 ![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif)
 
