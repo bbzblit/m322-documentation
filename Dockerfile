@@ -1,12 +1,9 @@
-FROM jekyll/jekyll:pages
+FROM jekyll/jekyll:3.8
 
-COPY Gemfile* /srv/jekyll/
+COPY Gemfile* ./
 
-WORKDIR /srv/jekyll
+RUN gem install bundler:2.2.24 && bundle install
 
-RUN apk update
+ENTRYPOINT [ "jekyll" ]
 
-RUN bundle config build.nokogiri --use-system-libraries && \
-	bundle install
-
-EXPOSE 4000
+CMD [ "build" ]
