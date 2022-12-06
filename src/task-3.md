@@ -15,7 +15,7 @@ Das `Gesetz der Nähe` besagt, dass elemente, welche im Raum nah beieinander lie
 
 ## Analyse meiner Views
 ### Bereits Umgesetzt
-
+In meheren Views verende ich Tabellen. Die Tabellen spalte hat ganz obe einen Tittel. Dieser beschreibt in einem oder maximal 2 Wörtern was der Inhalt der Spalte darstellen soll. Die Tabelle ist auch so aufgebaut, das im Falle, dass die Anzahl der Tabellen Colums die der maximal anzeigbaren Colums auf dem Display überschreitet das ganze Paginiert wird. Dadurch sind die Tabellen Tittel immer in der nähe von den Splaten und verschwieden nicht beim Scrollen.
 
 
 ### Verbesserungs Potenzial
