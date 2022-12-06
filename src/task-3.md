@@ -15,8 +15,9 @@ Das `Gesetz der Nähe` besagt, dass elemente, welche im Raum nah beieinander lie
 
 ## Analyse meiner Views
 ### Bereits Umgesetzt
-In meheren Views verende ich Tabellen. Die Tabellen spalte hat ganz obe einen Tittel. Dieser beschreibt in einem oder maximal 2 Wörtern was der Inhalt der Spalte darstellen soll. Die Tabelle ist auch so aufgebaut, das im Falle, dass die Anzahl der Tabellen Colums die der maximal anzeigbaren Colums auf dem Display überschreitet das ganze Paginiert wird. Dadurch sind die Tabellen Tittel immer in der nähe von den Splaten und verschwieden nicht beim Scrollen.
-
+In meheren Views verende ich Tabellen. Die Tabellen spalte hat ganz obe einen Tittel. Dieser beschreibt in einem oder maximal 2 Wörtern was der Inhalt der Spalte darstellen soll. Die Tabelle ist auch so aufgebaut, das im Falle, dass die Anzahl der Tabellen Colums die der maximal anzeigbaren Colums auf dem Display überschreitet das ganze Paginiert wird. Dadurch sind die Tabellen Tittel immer in der nähe von den Splaten und verschwieden nicht beim Scrollen. 
+<br/><br/>
+Auch setze ich es bereits bei der Logout/Register View dar. In diesen beiden Views gibt es jeweils einen Link, wer auf die andere View verweisst. Dadurch sieht erstens mal der user schnell wenn er sich auf der falschen View befindet. Zudem kann er auch extrem schnell die View wechseln.  
 
 ### Verbesserungs Potenzial
 In vielen Views verwende ich Icons. In den meisten Fällen sollten den meisten Usern bewusst sein, was diese Icons zu bedeuten haben. Allerdings gibt es auch User welche nicht Intuitiv verstehen, wozu dieses Icon eingesetzt werden kann. Aus diesem Grund währe es sehr hilfreich, einen kleinen Text vielleicht unter das Icons zu packen, dass deren Function beschreibt (z.B. für den Logout Button `Logout`). Aleternativ könnte man auch einen Text machen, welche beim howern über das Icon erscheint oder ein kleines Fragezeichen Icon daneben, welches beim darüberhovern ein kleinen Dialog mit einer kleinen Beschreibung öffnet. 
