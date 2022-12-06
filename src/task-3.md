@@ -29,7 +29,11 @@ Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlic
 ![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif)
 
 ### Analyse meiner Views
-## Bereits Umgesetzt
-Alle meine Views sehen bereits sehr ähndlich im Aufbau aus. 
+### Bereits Umgesetzt
+Alle meine Views sehen bereits sehr ähndlich im Aufbau aus. Sie bestehen immer aus einem Header und einem Footer, der sich auf den verschiedenen Views nicht oder wenn nur leicht unterscheidet. Dadurch findet der User die wichtigesten Funktionen wie z.B. der Logout Button, welche im Header der Website untergebracht ist sofort. 
 
-## Verpesserungspotenzial
+### Verpesserungspotenzial
+Bei der Folder View und bei der Noten View kann man bestimmte Resource löschen. In der aktuellen Views welche ich erstellt habe ist das ganze mit 2 Verschiedenen Möglichkeiten dargestellt. Im Beispiel der Folder Views benutze ich Links und im Beispiel der Noten Views icons. Hier währe es viel Übersichtlicher, wenn ich nur eines von beiden verwenden würde. Ich habe mich desshalb dazu entschieden in beiden Fällen ein Icon zu verwenden. 
+
+# Fazit
+Bei der Analyse meiner Views ist mir aufgefallen, dass ich viele sachen schon vorbildich umsetze. Allerdings habe ich verbesserungspotenzial festgestellt, welches ich nun versuhe in meiner Umsetzung zu verbessern.
