@@ -11,7 +11,7 @@ Das `Gesetz der Nähe` besagt, dass elemente, welche im Raum nah beieinander lie
 
 <br/>
 
-![naehe](https://user-images.githubusercontent.com/99135388/205734546-8067eb78-6321-455d-837c-83e000bb6309.gif)
+<!-- ![naehe](https://user-images.githubusercontent.com/99135388/205734546-8067eb78-6321-455d-837c-83e000bb6309.gif) -->
 
 ## Analyse meiner Views
 ### Bereits Umgesetzt
@@ -26,5 +26,5 @@ In vielen Views verwende ich Icons. In den meisten Fällen sollten den meisten U
 ### Gesetz der Ähnlichkeit
 Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlich aussehen auch automatisch als Zusammengehörtig warnimmt. Dadurch kann man dem User suggerieren, welche Aktion er als nächstes ausführen soll. Ein gutes Beispiel, welches ich im Internet für das `Gesetz der Ähndlichkeit` gefunden habe ist das unten angezeigte Gif. Die Punkte verändern zuerst ihre Farbe und nachher auch noch ihre Form. Man merkt, wie sofort das Gehirn die Punkte in 2 Gruppe aufteilt.
 
-![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif)
+<!-- ![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif) -->
 
