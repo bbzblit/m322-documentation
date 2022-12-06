@@ -21,3 +21,10 @@ Auch setze ich es bereits bei der Logout/Register View dar. In diesen beiden Vie
 
 ### Verbesserungs Potenzial
 In vielen Views verwende ich Icons. In den meisten Fällen sollten den meisten Usern bewusst sein, was diese Icons zu bedeuten haben. Allerdings gibt es auch User welche nicht Intuitiv verstehen, wozu dieses Icon eingesetzt werden kann. Aus diesem Grund währe es sehr hilfreich, einen kleinen Text vielleicht unter das Icons zu packen, dass deren Function beschreibt (z.B. für den Logout Button `Logout`). Aleternativ könnte man auch einen Text machen, welche beim howern über das Icon erscheint oder ein kleines Fragezeichen Icon daneben, welches beim darüberhovern ein kleinen Dialog mit einer kleinen Beschreibung öffnet. 
+
+
+### Gesetz der Ähnlichkeit
+Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlich aussehen auch automatisch als Zusammengehörtig warnimmt. Dadurch kann man dem User suggerieren, welche Aktion er als nächste ausführen soll.
+
+![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif)
+
