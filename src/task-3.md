@@ -13,3 +13,10 @@ Das `Gesetz der Nähe` besagt, dass elemente, welche im Raum nah beieinander lie
 
 ![naehe](https://user-images.githubusercontent.com/99135388/205734546-8067eb78-6321-455d-837c-83e000bb6309.gif)
 
+## Analyse meiner Views
+### Bereits Umgesetzt
+
+
+
+### Verbesserungs Potenzial
+In vielen Views verwende ich Icons. In den meisten Fällen sollten den meisten Usern bewusst sein, was diese Icons zu bedeuten haben. Allerdings gibt es auch User welche nicht Intuitiv verstehen, wozu dieses Icon eingesetzt werden kann. Aus diesem Grund währe es sehr hilfreich, einen kleinen Text vielleicht unter das Icons zu packen, dass deren Function beschreibt (z.B. für den Logout Button `Logout`). Aleternativ könnte man auch einen Text machen, welche beim howern über das Icon erscheint oder ein kleines Fragezeichen Icon daneben, welches beim darüberhovern ein kleinen Dialog mit einer kleinen Beschreibung öffnet. 
