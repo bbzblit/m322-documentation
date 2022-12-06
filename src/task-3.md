@@ -28,3 +28,8 @@ Das `Gesetz der Ähnlichkeit` besagt, dass unser Gehirn Objekte, welche ähndlic
 
 ![aehndlichkeit](https://user-images.githubusercontent.com/99135388/205872268-429406af-4f78-4a42-892a-f30bd3c09b9c.gif)
 
+### Analyse meiner Views
+## Bereits Umgesetzt
+Alle meine Views sehen bereits sehr ähndlich im Aufbau aus. 
+
+## Verpesserungspotenzial
