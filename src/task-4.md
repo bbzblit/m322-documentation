@@ -29,3 +29,15 @@ Die Views sollte sich an die Bedürfnisse des Users anpassen können. So gibt es
 
 ### 7. Lernförderlichkeit
 Der User wird den Dialog vermutlich mehrmals benutzen. Dadurch sollte er so designt werden, dass der User bei jeder Benutzung des Daloges etwas schneller und effizienter damit arbeiten kann. Ein gute Möglichkeit dazu ist eine `Guide Toure` oder `Help`.  Die können dem User beim Initialen Stark eine kurze Übersicht über alle Tools geben.
+
+## Analyse meiner Views
+Ich habe einmal meine 7 Views mit den 7 oben beschriebenen Punkten analysiert. 
+|Regel|Erfüllt|Begründung|
+|---|---|---|
+|Aufgabenangemessenheit|`True`||
+|Selbstbeschreibungsfähigkeit|`True`||
+|Erwartungskonformität|`True`||
+|Fehlertoleranz|`True`||
+|Steuerbarkeit|`True`||
+|Individualisierbarkeit|`False`|Aktuell ist meine Application nicht zu stark individualiserbar. |
+|Lernförderlichkeit|`True`||
