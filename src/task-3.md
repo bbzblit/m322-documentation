@@ -3,7 +3,7 @@
 # 3. Aufgabe
 
 ## Einführung
-Ein wichtiger Bestandteil beim `UI` (User Interface) stellt `UX` (User experience) dar. Dabei sollte das User Interface so gestaltet werden, dass der User sich bei der Verwendung wohlfühlt und gut damit zurechtkommt. Wahrnehmung und Geschmäcker sind etwas sehr Subjektives, weshalb es manchmal schwer sei kann, eine Lösung zu finden, die allen Usern passt. Zum Glück gibt es da einige psychologische Tricks, die dabei helfen können, eine Lösung zu finden, die ein Grossteil der User intuitiv versteht.
+Ein wichtiger Bestandteil beim `UI` (User Interface) design stellt `UX` (User experience) dar. Dabei sollte das User Interface so gestaltet werden, dass der User sich bei der Verwendung wohlfühlt und gut damit zurechtkommt. Wahrnehmung und Geschmäcker sind etwas sehr Subjektives, weshalb es manchmal schwer sei kann, eine Lösung zu finden, die allen Usern passt. Zum Glück gibt es da einige psychologische Tricks, die dabei helfen können, eine Lösung zu finden, die ein Grossteil der User intuitiv versteht.
 
 ## Analyse 
 Um meine Views zu verbessern, werde ich sie nun nach dem `Gesetz der Nähe` und `Gesetz der Ähnlichkeit` analysieren. Und anschliessend präsentieren was bereits gut ist und wo es noch Verbesserungspotenzial gibt.
