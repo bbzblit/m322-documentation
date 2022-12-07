@@ -22,3 +22,6 @@ java.lang.InvalidArgumentException the username and password was not found in th
 
 ### 5. Steuerbarkeit
 Der User sollte immer in der Lage sein die Handlungen auszuführen, die er möchte. Nehmen wir mal als Beispiel ein Dialog, bei dem man ein Document Hochladen kann (z.B. Google Drive). Nachdem der User den Hochladeprozess gestartet hat stellt er fest, dass er leider das Falsche Document ausgewählt hat. Er möchte nun den Prozess abbrechen und mit dem richtigen Document erneut starten. Leider lässt der Dialog dies nict zu und zwingt dadurch den User den Hochladeprozess abzuschliessen. Es würde die Steuerbarkeit extrem verbessern, wenn man eine Möglichkeit hätte den Dialog zu beenden. 
+
+### 7. Lernförderlichkeit
+Der User wird den Dialog vermutlich mehrmals benutzen. Dadurch sollte er so designt werden, dass der User bei jeder Benutzung des Daloges etwas schneller und effizienter damit arbeiten kann. Ein gute Möglichkeit dazu ist eine `Guide Toure` oder `Help`.  Die können dem User beim Initialen Stark eine kurze Übersicht über alle Tools geben.
