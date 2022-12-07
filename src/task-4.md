@@ -34,10 +34,10 @@ Der User wird den Dialog vermutlich mehrmals benutzen. Dadurch sollte er so desi
 Ich habe einmal meine 7 Views mit den 7 oben beschriebenen Punkten analysiert. 
 |Regel|Erfüllt|Begründung|
 |---|---|---|
-|Aufgabenangemessenheit|`True`||
-|Selbstbeschreibungsfähigkeit|`True`||
-|Erwartungskonformität|`True`||
-|Fehlertoleranz|`True`||
-|Steuerbarkeit|`True`||
+|Aufgabenangemessenheit|`True`|Das Programm führt genau die Aufgaben auf, die es machen soll. Nämlich die Verwaltung und das Teilen von Noten.|
+|Selbstbeschreibungsfähigkeit|`True`|Alle acctions sind mit ensprechenden Icons und allenfals Text klar gekennzeichnet. So weiss z.B. jeder dass das + zum Hinzufügen eines neuen Documentes benutzt werden kann. Am Anfang des Projektes wollte ich auch noch gewisse acctions über Mouseklicke steuern. Allerdings bin ich mitlerweiele davon abgekommen, da es für die meisten User nicht intuitiv erkennbar ist. |
+|Erwartungskonformität|`True`|Alle acctions sind klar beschrieben und man weiss genau was einen erwartet wenn man auf einen bestimmten Knopf drückt.|
+|Fehlertoleranz|`True`|Alle Usereingaben werden im Frotend validiert befor sie ans backend gesendet werden. Zudem werden sich auch noch ein 2. Mal im Backend vallidiert, falls der User direckt über die API mit der Application redet. Falls einen fehlerhafte Eingabe entdeckt wird, wird eine kurze aber verständliche Fehlermeldung ausgegeben. Keine Eingaben die der User macht ist finale. Sie können immernoch später bearbeitet oder gegebenenfals auch gelöscht werde.|
+|Steuerbarkeit|`True`|Die Steuerbarkeit ist bereits gut vorhanden. Alle Dialogfenster können mit einem klar ersichtlichen Kreuz auf der rechten Seite beendet werden. Zusem gibt es auch klar ersichtliche Links um zwischen den einzelnen Views zu wechseln. |
 |Individualisierbarkeit|`False`|Aktuell ist meine Application nicht zu stark individualiserbar. Die Application verfgt z.B. nicht über einen Darkmode und auch sonst kann man an den Views wenig customize.|
-|Lernförderlichkeit|`True`|Auf meinen aktuellen Views gibt es noch kein Initiales Tutorial, was beim ersten einlogen auf den Server erscheint. Auch gibt es keine kleinen Hilfe Symbole neben den Icons, die es dem User mehr Informationen über die Aktion herauszufinden, die beim clicken ausgeführt ist. Der letze Punkt ist allerdings in Planung und sollte planmässig im Endprodukt vorhanden sein.|
+|Lernförderlichkeit|`False`|Auf meinen aktuellen Views gibt es noch kein Initiales Tutorial, was beim ersten einlogen auf den Server erscheint. Auch gibt es keine kleinen Hilfe Symbole neben den Icons, die es dem User mehr Informationen über die Aktion herauszufinden, die beim clicken ausgeführt ist. Der letze Punkt ist allerdings in Planung und sollte planmässig im Endprodukt vorhanden sein.|
