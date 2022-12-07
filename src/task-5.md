@@ -16,3 +16,6 @@ Auch habe ich viel Feedback zu meinen Mockups bekommen. Ein wunsch war, dass ich
 ### Meine Erfahrung als Testkandidat
 Auch durfte ich die Application von [Levin Schaller](https://github.com/lev1nn/) testen. Es war sehr interessant auch einmal die Application von jemand anderem auszuprobieren. Da er bereits sehr weit war konnte ich das ganze bereits an dem Endprodukt testen. Ich finde die Application alles in allem ein sehr solides Produkt. Sie erfüllt definitif die Funktionen eines Loginsystems <br/>
 Bei der Funktion hatte ich nicht viel auszusetzen allerdings hatte ich ein paar Änderungsvorschläge, für das Desing der Application. Einer war z.B. , dass beim `Login` oder auch beim `Sign Up` der Button zum fortfahren erst akktiviert ist, wenn alle Felder ausgefühlt hat. Das könnte man Designtechnisch z.B. durch 2 verschiedene Farben darstellen.    
+
+## Fazit
+Ich finde es gut, dass wir gegenseitig unsere Views bewerten konnten. Dadurch konnte ich ein erstes Feedback von meiner Application erhalten. Zudem hatte ich auch noch einen Einblick in die Applicationen von anderen Personen.
