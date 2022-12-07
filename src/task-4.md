@@ -39,5 +39,5 @@ Ich habe einmal meine 7 Views mit den 7 oben beschriebenen Punkten analysiert.
 |Erwartungskonformität|`True`||
 |Fehlertoleranz|`True`||
 |Steuerbarkeit|`True`||
-|Individualisierbarkeit|`False`|Aktuell ist meine Application nicht zu stark individualiserbar. |
-|Lernförderlichkeit|`True`||
+|Individualisierbarkeit|`False`|Aktuell ist meine Application nicht zu stark individualiserbar. Die Application verfgt z.B. nicht über einen Darkmode und auch sonst kann man an den Views wenig customize.|
+|Lernförderlichkeit|`True`|Auf meinen aktuellen Views gibt es noch kein Initiales Tutorial, was beim ersten einlogen auf den Server erscheint. Auch gibt es keine kleinen Hilfe Symbole neben den Icons, die es dem User mehr Informationen über die Aktion herauszufinden, die beim clicken ausgeführt ist. Der letze Punkt ist allerdings in Planung und sollte planmässig im Endprodukt vorhanden sein.|
