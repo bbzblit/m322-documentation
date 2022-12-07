@@ -34,6 +34,7 @@ Der User wird den Dialog vermutlich mehrmals benutzen. Dadurch sollte er so desi
 
 ## Analyse meiner Views
 Ich habe einmal meine 7 Views mit den 7 oben beschriebenen Punkten analysiert. 
+
 |Regel|Erfüllt|Begründung|
 |---|---|---|
 |Aufgabenangemessenheit|`True`|Das Programm führt genau die Aufgaben auf, die es machen soll. Nämlich die Verwaltung und das Teilen von Noten.|
