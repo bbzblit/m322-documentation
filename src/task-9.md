@@ -18,3 +18,20 @@ Ein häufiger Fehler den Webentwickler auch machen, ist das bei Bilder einen Alt
 ```html
 <img src="tree.png" alt="<Put alt text here>" width="500" height="333">
 ``` 
+
+## WCAG
+`WCAG` oder auch `Web Content Accessibility Guidelines` ist simpel gesagt einfach eine Ansamlung an guidlienes in die man sich halten solte, um eine Website möglichst barierefrei zu gestallten. Die `Web Content Accessibility Guidelines` lassen sich grob in 4 verschiedene Unterkapittel aufteilen.
+### Wahrnehmbar
+Unter dem Kapittel Wahrnehmbar stehen gilt, dass man möglichst für jeden Medientyp auf einer Website eine alternatve bietet. Um es im kontext einer Website zu beschreiben sollten z.B. bei Bilder einen alternativtext mitgeben ode auch bei Videos mit audio einen Untertitel angezeigt. Zudem beinhaltet es auch noch die Tatsache, dass eine Application möglichst in der Schriftgrösse verstellbar sein sollte. Bei Websiten ist dieses Feauter glücklicherweise in den meisten Browser bereits implementiert, da man da relativ einfach die grösse einer website ändern kann. Allerdings gibt es leider auch Websiten die sich dadurch nicht anpasssen lassen. Allerdings sollte man schauen, dass das Design der Website immernoch einigermassen gut und übersichtlich aussieht auch wenn die grösse der Website verändert wird. 
+
+### Bedienbar
+Die Bedienbarkeit beinhaltet vorallem so sachen wie, dass der User genügen Zeit bei der Eingabe vom Input hat. Auch ein weiteres Beispiel ist, dass Fehlermeldungen die als popups angezeigt nicht sofort wieder verschwieden sondern dass man genug zeit zum lesen hat. Auch mir ist es schon passiert, dass ich eine error Message auf einem popup nicht lesen konnte, da es zu schnell wieder verschwunden ist. Und wenn ich als relativ schneller leser etwas nicht rechtzeitig lesen kann möchte ich gar nicht wissen wie es jemandem ergeht, der probleme beim Lesen hat.
+
+### Verständlich
+Die Bedinung einer Application sollte einfach verständlich und intuitiv sein. So sollten z.B bei einem Formular kurze Infotexte angezeigt werden. Auch ist es wichtig, dass in Beschreibungstexten die jeder user verstehen muss nicht komplizierte Wörter verwendet werden.
+#### Einfach zu verstehen
+Durch diesen Button beenden sie den Registrierungsprozess und speichert ihre Angaben. Sie könnst sich danach anmelden und die Services nutzen.
+#### Schlecht zu verstehen
+Wenn sie auf den Button drückt, werden die von ihnen eingegebenen Daten validiert und in der Datenbank abgespeichert, um sich später mit einem Benutzernamen und Passwort anmelden zu können und Zugang zu den von dem Anbieter zur Verfügung gestellten Services zu haben.
+### Robust
+Robust beinhaltet die Fähigkeit von einer Application um mit assistierenden Technologien zu funktioneren. Im kontext von Webdevelopmnt beinhaltet das wie bereits beschrieben die Tatsache ob ein `HTML` file validie aufgebaut ist und ob alternativ texte vorhanden sind.
