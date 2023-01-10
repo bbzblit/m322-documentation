@@ -35,3 +35,10 @@ Durch diesen Button beenden sie den Registrierungsprozess und speichert ihre Ang
 Wenn sie auf den Button drückt, werden die von ihnen eingegebenen Daten validiert und in der Datenbank abgespeichert, um sich später mit einem Benutzernamen und Passwort anmelden zu können und Zugang zu den von dem Anbieter zur Verfügung gestellten Services zu haben.
 ### Robust
 Robust beinhaltet die Fähigkeit von einer Application um mit assistierenden Technologien zu funktioneren. Im kontext von Webdevelopmnt beinhaltet das wie bereits beschrieben die Tatsache ob ein `HTML` file validie aufgebaut ist und ob alternativ texte vorhanden sind.
+<br/><br/>
+Wie bereits gesagt ist WCAG einfach eine Ansamlung von guidlines an die man sich halten sollte. Genauer besagt besteht die guidline aus 78 sogennante `erfolgskriterien` an die man sich hallten sollte. Diese erfolgskritien sind in 3 verschiedene Gruppen aufgeteilt und dadurch nach Priorität geortnet. In einer guten Application sollten im mindestens alle Punkte von der ersten und von der zweiten Grupper erfüllt sein.
+|Name|Kurze Beschreibung|
+|---|----|
+|Stufe `A` | Ist die Gruppe mit den Anforderungen mit der höchsten priorität|
+|Stufe `AA`|Ist die Gruppe mitd den Anforderungen mit mittlereer priorität|
+|Stufe `AAA`|Ist die Gruppe mit den Anforderungen von der niderigsten priorität. Diese Anforderungen sind zwar gut wenn sie in einer Application vorhanden sind es ist allerdings auch nicht schlimm wenn die einte oder andere davon nicht beachtet wurde|
