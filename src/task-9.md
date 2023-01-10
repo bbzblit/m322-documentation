@@ -28,7 +28,7 @@ Unter dem Kapittel Wahrnehmbar stehen gilt, dass man möglichst für jeden Medie
 Die Bedienbarkeit beinhaltet vorallem so sachen wie, dass der User genügen Zeit bei der Eingabe vom Input hat. Auch ein weiteres Beispiel ist, dass Fehlermeldungen die als popups angezeigt nicht sofort wieder verschwieden sondern dass man genug zeit zum lesen hat. Auch mir ist es schon passiert, dass ich eine error Message auf einem popup nicht lesen konnte, da es zu schnell wieder verschwunden ist. Und wenn ich als relativ schneller leser etwas nicht rechtzeitig lesen kann möchte ich gar nicht wissen wie es jemandem ergeht, der probleme beim Lesen hat.
 
 ### Verständlich
-Die Bedinung einer Application sollte einfach verständlich und intuitiv sein. So sollten z.B bei einem Formular kurze Infotexte angezeigt werden. Auch ist es wichtig, dass in Beschreibungstexten die jeder user verstehen muss nicht komplizierte Wörter verwendet werden.
+Die Bedinung einer Application sollte einfach verständlich und intuitiv sein. So sollten z.B bei einem Formular kurze Infotexte angezeigt werden. Auch ist es wichtig, dass in Beschreibungs texten die jeder user verstehen muss nicht komplizierte Wörter verwendet werden.
 #### Einfach zu verstehen
 Durch diesen Button beenden sie den Registrierungsprozess und speichert ihre Angaben. Sie könnst sich danach anmelden und die Services nutzen.
 #### Schlecht zu verstehen
@@ -42,3 +42,8 @@ Wie bereits gesagt ist WCAG einfach eine Ansamlung von guidlines an die man sich
 |Stufe `A` | Ist die Gruppe mit den Anforderungen mit der höchsten priorität|
 |Stufe `AA`|Ist die Gruppe mitd den Anforderungen mit mittlereer priorität|
 |Stufe `AAA`|Ist die Gruppe mit den Anforderungen von der niderigsten priorität. Diese Anforderungen sind zwar gut wenn sie in einer Application vorhanden sind es ist allerdings auch nicht schlimm wenn die einte oder andere davon nicht beachtet wurde|
+## SUS
+`Sus` bedeutet so viel wie `System Usability Scale` und bitet eine möglichkeit zu check ob die Accessability auf einer Website ausreichend ist. Das ganze wird normalerweise anhand von einem Fragebogen durchgeführt. Allerdings gibt es durchaus heutzutage auch begrenzt Tests, welche automatisiert durchgeführt werde. Ein gutes Beispiel für automatisierte Tests ist zum Beispiel den die unterkatigorie `Accessibility` von Chrome Lighthous bericht. Allerdings können in solchen automatisierten Tests nur sachen überprüft werden wie, ist das HTML richtig aufgebaut oder hat jedes Image einen alternativtext.  
+
+## Accessibility auf SPA (single page application)
+In meinem Beispiel verwende ich Angular für das UI von meiner Projektarbeit. Dadurch ist mein Endprodukt nichts anderes als eine Website. Da Angular ein relativ bekannte Framework ist, dass auch sehr gerne mal für grössere Projekte eingesetzt wird gibt es glücklicherweise eine menge Tools, mit denen man die Accessability verbessern kann. Die meisten Tools davon sind dazu ausgelegt um ideal mit Screen Reader zu funktionieren. SO gibt es z.B. extra voreingebaute componnents mit denen man einfach mit ScreenReader komunizieren kann. Eine übersicht über alle Tools findet manauf der [Offiziellen Angular Website](https://angular.io/guide/accessibility) 
