@@ -1,4 +1,5 @@
 # Analyse der Views nach Isonormen
+
 Wie bereits aus den vorherigen Tasks aufgezeigt, ist an meinen Views noch nicht alles perfekt. In dieser Aufgabe werde ich nun einmal zusamenfassen, was noch nicht gut ist und werde anschliessen auch meine Views so anpassen, dass sie diese offenen Punkte möglichst abdecken. 
 
 ## 3. Gestaltungsgesetz
@@ -10,3 +11,12 @@ Bei der Lernförderlichkeit sind die grössten offenen Punkte, welche ich finde,
 
 ## 5. Testing mit anderen Personen
 Ich werde hier nicht nur wie in der Aufgabenbeschreibung Tests evaluieren, die von anderen Personen an den Mockups durchgeführt worden sind, sonderen auch welche, die an einem halbfertigen Endprodukt durchgeführt worden sind. Da ich da besser durch die Handlungen von der anderen Personen mögliche Verbesserungen finden kann. Und tatsächlich ist mir aufgefallen ,dass mehrere Testkandidaten nicht intuitiv die Funktion mit dem Kontextmenu gefunden haben. Das Kontextmenu war von mir eigentlich als platzsparendere Methode geplant gegenüber den Actions von den Mockups. Allerdings kamen viele Testkandidaten damit nicht all zu gut zurecht. Schlussendlich habe ich mich dann auch dazu entschieden, zwar das Kontextmenu drin zu lassen und nach wie vor eine ALternative durch die Actions zu bieten. 
+
+
+## Änderungen
+Ich habe nun einen teil meiner Views an meine Verbesserungen angepasst. Zum einen habe ich auf den beiden Tabellen geachtet, das ich alle Links von dem Action tab auf der Folder Tabelle entferne und sie durch icons ersetzen. Dadurch habe ich nicht nur eine bessere Übersicht gestaltet sondern gleichzeitig auch noch die View um einiges verschönert. <br/>
+Die andere Sache, welche ich noch angepasst habe sind diese kleinen Fragezeichen oberhalb von den wichtigsten Actionen. Diese sollten beim darüberhovern einenen kleinen Dialog anzeigen, bei dem man sehen kann was die Funktion von dem Besagten (Icon) Button ist.
+
+![image](https://user-images.githubusercontent.com/99135388/211730432-c672a130-6967-4e29-8dcd-0057f47c14ac.png)
+![image](https://user-images.githubusercontent.com/99135388/211730478-fb6d29e3-b2fd-4962-b8ea-9fef3aa70a4f.png)
+![image](https://user-images.githubusercontent.com/99135388/211730527-0bf4620b-b2b1-4840-a57d-de643ed76a2e.png)
