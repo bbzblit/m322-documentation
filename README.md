@@ -7,5 +7,5 @@
 - [Aufgabe 4 - Meine Views nach ISO Norm 9241-110 analysieren](./src/task-4.md)
 - [Aufgabe 5 - UX Rückmeldung](./src/task-5.md)
 - [Aufgabe 7 - Implementierung/Dokumentation](./src/task-7.md)
-- [Aufgabe 8 - Verbessern der Views](./stc/task-8.md)
+- [Aufgabe 8 - Verbessern der Views](./src/task-8.md)
 - [Aufgabe 9 -  Accessability](./src/task-9.md)
