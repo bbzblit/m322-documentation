@@ -37,6 +37,8 @@ Wenn sie auf den Button drücken, werden die von ihnen eingegebenen Daten validi
 Robust beinhaltet die Fähigkeit von einer Application, um mit assistierenden Technologien zu funktioneren. Im Kontext von Webdevelopmnt beinhaltet das, wie bereits beschrieben, die Tatsache, ob ein `HTML` file validie aufgebaut ist und ob Alternativtexte vorhanden sind.
 <br/><br/>
 Wie bereits gesagt, ist WCAG einfach eine Ansammlung von Guidlines, an die man sich halten sollte. Genauer gesagt, besteht die Guidline aus 78 sogenannten `Erfolgskriterien`, an die man sich halten sollte. Diese Erfolgskritien sind in 3 verschiedene Gruppen aufgeteilt und dadurch nach Priorität geordnet. In einer guten Application sollten mindestens alle Punkte von der ersten und von der zweiten Gruppe erfüllt sein.
+
+
 |Name|Kurze Beschreibung|
 |---|----|
 |Stufe `A` | Ist die Gruppe mit den Anforderungen mit der höchsten Priorität|
